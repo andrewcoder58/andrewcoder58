@@ -16,11 +16,12 @@
 
 ## 🎯 Experience
 
-- 🧑‍💻 Internship Candidate at **[Code2College](https://code2college.org/)**
+- 🧑‍💻 **[Code2College](https://code2college.org/)** Participant
   - Selected for a competitive program focused on technical skill development  
   - Building Python and web-based projects
   - Practicing data structures and problem-solving
 
+<!--
 <details open> 
   <summary><h2>🔥 GitHub Stats</h2></summary>
 
@@ -29,3 +30,4 @@
     <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewcoder58&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="180px"/>
   </p>
 </details>
+-->
