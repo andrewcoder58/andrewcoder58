@@ -1,33 +1,50 @@
 <p align="center">
-  <a href="https://github.com/Akshay090/svg-banners">
-    <img alt="banner" src="https://svg-banners.vercel.app/api?type=typeWriter&text1=andrewcoder58&width=800&height=110" />
+  <a href="https://github.com/andrewcoder58">
+    <img
+      alt="banner"
+      src="https://svg-banners.vercel.app/api?type=typeWriter&text1=andrewcoder58%20👨‍💻&width=800&height=110"
+    />
   </a>
 </p>
 
-## Hi there, I'm Andrew 👋
-
-🎓 Computer Science student  
-💻 Passionate about building projects and learning how software works  
-🚀 Always working to improve and take on new challenges  
-
-<p align="center">
-  <a href="https://github.com/andrewcoder58?tab=repositories&sort=stargazers"><img alt="Total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/andrewcoder58?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>&nbsp;&nbsp;<a href="https://github.com/andrewcoder58?tab=followers"><img alt="Followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/andrewcoder58?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-</p>
-
-## 🎯 Experience
+# Hi there, I'm Andrew 👋
 
 - 🧑‍💻 **[Code2College](https://code2college.org/)** Participant
-  - Selected for a competitive program focused on technical skill development  
-  - Building Python and web-based projects
-  - Practicing data structures and problem-solving
+  - Selected for a competitive technical training program
+  - Built projects using Python and web technologies
+  - Strengthened problem-solving and data structures skills
 
-<!--
-<details open> 
-  <summary><h2>🔥 GitHub Stats</h2></summary>
+<p align="center">
+<a href="https://github.com/andrewcoder58?tab=repositories&sort=stargazers"><img alt="Total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/andrewcoder58?style=for-the-badge&logo=star&color=55960c" /></a>&nbsp;<a href="https://github.com/andrewcoder58?tab=followers"><img alt="Followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/andrewcoder58?style=for-the-badge&logo=person-add&color=236ad3" /></a>
+</p>
 
-  <p align="center">
-    <img alt="Andrew's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=andrewcoder58&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="180px"/>
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewcoder58&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="180px"/>
-  </p>
-</details>
--->
+## 🏆 Certifications
+
+<p align="center">
+  <a href="https://www.hirewheel.ai/ai-literacy-day">
+    <img src="https://cdn.certifier.io/ff9d2787-f5ac-4457-9251-e32b869ec383/credentials/01kn68emqncmv23jmzbfk6ygq6/designs/01kmnhh02hkrh22hd0cavzfwg2/p9V3GnnqLL.png" alt="AI Chatbot and Agent Fundamentals Badge" width="200"/>
+  </a>
+</p>
+<p align="center">
+  <b>AI Chatbot and Agent Fundamentals</b><br/>
+  Verified by Certifier
+</p>
+
+## 🔥 GitHub Stats
+
+<p align="center">
+  <!--
+  <img
+    alt="GitHub Stats"
+    align="top"
+    height="180px"
+    src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=andrewcoder58&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"
+  />
+  -->
+  <img
+    alt="Top Languages"
+    align="top"
+    height="180px"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=andrewcoder58&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"
+  />
+</p>
