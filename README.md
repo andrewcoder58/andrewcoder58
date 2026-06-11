@@ -9,13 +9,13 @@
 
 # Hi there, I'm Andrew 👋
 
-- 🧑‍💻 **[Code2College](https://code2college.org/)** Participant
-  - Selected for a competitive technical training program
-  - Built projects using Python and web technologies
-  - Strengthened problem-solving and data structures skills
+- 🧑‍💻 **[Code2College](https://code2college.org/)** Software Development Essentials I Participant
+  - 9-week web programming course including basic and advanced Python concepts
+  - Developed several technical projects in Python using intermediate concepts
+  - Attended workshops to improve time management, professional skills, and technical portfolio development
 
 <p align="center">
-<a href="https://github.com/andrewcoder58?tab=repositories&sort=stargazers"><img alt="Total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/andrewcoder58?style=for-the-badge&logo=star&color=55960c" /></a>&nbsp;<a href="https://github.com/andrewcoder58?tab=followers"><img alt="Followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/andrewcoder58?style=for-the-badge&logo=person-add&color=236ad3" /></a>
+<a href="https://github.com/andrewcoder58?tab=repositories&sort=stargazers"><img alt="Total stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/andrewcoder58?style=for-the-badge&logo=star&color=55960c" /></a>&nbsp;<a href="https://github.com/andrewcoder58?tab=followers"><img alt="Followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/andrewcoder58?style=for-the-badge&logo=person-add&color=236ad3" /></a>
 </p>
 
 ## 🏆 Certifications
