@@ -9,14 +9,14 @@
 
 # Hi there, I'm Andrew 👋
 
-- 🧑‍💻 **[Code2College](https://code2college.org/)** Software Development Essentials I Participant
+- 🧑‍💻 **[Code2College](https://code2college.org/) Software Development Essentials (SDE) I Participant**
   - 9-week web programming course including basic and advanced Python concepts
   - Developed several technical projects in Python using intermediate concepts
   - Attended workshops to improve time management, professional skills, and technical portfolio development
 
-<p align="center">
+<!--<p align="center">
 <a href="https://github.com/andrewcoder58?tab=repositories&sort=stargazers"><img alt="Total stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/andrewcoder58?style=for-the-badge&logo=star&color=55960c" /></a>&nbsp;<a href="https://github.com/andrewcoder58?tab=followers"><img alt="Followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/andrewcoder58?style=for-the-badge&logo=person-add&color=236ad3" /></a>
-</p>
+</p>-->
 
 ## 🏆 Certifications
 
@@ -30,17 +30,16 @@
   Verified by Certifier
 </p>
 
+<!--
 ## 🔥 GitHub Stats
 
 <p align="center">
-  <!--
   <img
     alt="GitHub Stats"
     align="top"
     height="180px"
     src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=andrewcoder58&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"
   />
-  -->
   <img
     alt="Top Languages"
     align="top"
@@ -48,3 +47,4 @@
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=andrewcoder58&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"
   />
 </p>
+-->
