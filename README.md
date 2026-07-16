@@ -1,11 +1,11 @@
-<p align="center">
+<div align="center">
   <a href="https://github.com/andrewcoder58">
     <img
       alt="banner"
       src="https://svg-banners.vercel.app/api?type=typeWriter&text1=andrewcoder58%20👨‍💻&width=800&height=110"
     />
   </a>
-</p>
+</div>
 
 # Hi there, I'm Andrew 👋
 
@@ -20,10 +20,6 @@
   * Completed a 9-week web programming course covering both basic and advanced Python concepts
   * Developed several Python projects using intermediate programming concepts
   * Attended workshops on time management, professional skills, and technical portfolio development
-
-<!--<p align="center">
-<a href="https://github.com/andrewcoder58?tab=repositories&sort=stargazers"><img alt="Total stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/andrewcoder58?style=for-the-badge&logo=star&color=55960c" /></a>&nbsp;<a href="https://github.com/andrewcoder58?tab=followers"><img alt="Followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/andrewcoder58?style=for-the-badge&logo=person-add&color=236ad3" /></a>
-</p>-->
 
 ## 🏆 Certifications
 
@@ -47,22 +43,3 @@
     </td>
   </tr>
 </table>
-
-<!--
-## 🔥 GitHub Stats
-
-<p align="center">
-  <img
-    alt="GitHub Stats"
-    align="top"
-    height="180px"
-    src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=andrewcoder58&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"
-  />
-  <img
-    alt="Top Languages"
-    align="top"
-    height="180px"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=andrewcoder58&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"
-  />
-</p>
--->
