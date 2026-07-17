@@ -1,25 +1,29 @@
-<div align="center">
-  <a href="https://github.com/andrewcoder58">
-    <img
-      alt="banner"
-      src="https://svg-banners.vercel.app/api?type=typeWriter&text1=andrewcoder58%20👨‍💻&width=800&height=110"
-    />
-  </a>
-</div>
-
 # Hi there, I'm Andrew 👋
 
-* **Harvard CS50’s Introduction to Programming with Python**
+## 🎓 Education
 
-  * Completed a 10-week Harvard OpenCourseWare course focused exclusively on Python programming
-  * Covered core concepts such as functions, classes, exceptions, regular expressions, and unit testing through hands-on problem sets
-  * Submitted a [final project](https://github.com/andrewcoder58/digital-time-capsule) that applied the learned skills to a real-world programming problem
+* **Harvard CS50's Introduction to Programming with Python**
+
+  * Completed a 10-week Harvard course focused on Python programming
+  * Covered Python fundamentals, OOP, file I/O, regular expressions, and unit testing.
+  * Built and submitted [Digital Time Capsule](https://github.com/andrewcoder58/digital-time-capsule)
 
 * **Code2College Software Development Essentials**
 
-  * Completed a 9-week web programming course covering both basic and advanced Python concepts
-  * Developed several Python projects using intermediate programming concepts
-  * Attended workshops on time management, professional skills, and technical portfolio development
+  * Completed a 6-week software development course focused on Python programming.
+  * Built three Python projects:
+    * [Escape Room](https://github.com/andrewcoder58/escape-room)
+    * [Store Inventory](https://github.com/andrewcoder58/store-inventory)
+    * [ArachnoPhonics](https://github.com/andrewcoder58/arachnophonics)
+  * Attended workshops on professional skills development
+
+## 💻 Featured Projects
+
+* [Sunrise Cafe](https://github.com/andrewcoder58/sunrise-cafe) – Responsive frontend website for a fictional café.
+* [Digital Time Capsule](https://github.com/andrewcoder58/digital-time-capsule) – CS50P final project for storing and revisiting memories.
+* [Escape Room](https://github.com/andrewcoder58/escape-room) – Text-based Python adventure game.
+* [Store Inventory](https://github.com/andrewcoder58/store-inventory) – Inventory management system written in Python.
+* [ArachnoPhonics](https://github.com/andrewcoder58/arachnophonics) – Python Hangman-style game with a spider-themed twist.
 
 ## 🏆 Certifications
 
@@ -39,7 +43,7 @@
       </a>
       <br/><br/>
       <b>AI Chatbot and Agent Fundamentals</b><br/>
-      Verified by Certifier
+      Issued by Code2College
     </td>
   </tr>
 </table>
