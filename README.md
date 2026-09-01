@@ -8,14 +8,20 @@
   * Covered Python fundamentals, OOP, file I/O, regular expressions, and unit testing.
   * Built and submitted [Digital Time Capsule](https://github.com/andrewcoder58/digital-time-capsule)
 
-* **Code2College Software Development Essentials**
+* **Code2College**
 
-  * Completed a 6-week software development course focused on Python programming.
-  * Built three Python projects:
-    * [Escape Room](https://github.com/andrewcoder58/escape-room)
-    * [Store Inventory](https://github.com/andrewcoder58/store-inventory)
-    * [ArachnoPhonics](https://github.com/andrewcoder58/arachnophonics)
-  * Attended workshops on professional skills development
+  * Elite 101 (Current participant)
+    * Advanced coding and interview prep.
+    * Learn version control (GitHub), Scrum/Agile workflows, debugging, testing, and workplace coding skills to excel in internships or tech roles.
+ 
+  * Software Development Essentials (SDE)
+
+    * Completed a 6-week software development course focused on Python programming.
+    * Built three Python projects:
+      * [Escape Room](https://github.com/andrewcoder58/escape-room)
+      * [Store Inventory](https://github.com/andrewcoder58/store-inventory)
+      * [ArachnoPhonics](https://github.com/andrewcoder58/arachnophonics)
+    * Attended workshops on professional skills development
 
 ## 💻 Featured Projects
 
