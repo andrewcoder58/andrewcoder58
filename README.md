@@ -11,8 +11,9 @@
 * **Code2College**
 
   * Elite 101 (Current participant)
-    * Advanced coding and interview prep.
-    * Learn version control (GitHub), Scrum/Agile workflows, debugging, testing, and workplace coding skills to excel in internships or tech roles.
+    * Advanced coding and interview prep
+    * GitHub, Agile/Scrum, debugging & testing
+    * Workplace-ready software development skills
  
   * Software Development Essentials (SDE)
 
