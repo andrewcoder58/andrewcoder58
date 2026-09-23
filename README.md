@@ -1,4 +1,4 @@
-# Hi there, I'm Andrew 👋
+# Hi there, I'm Andrew Oum 👋
 
 ## 🎓 Education
 
@@ -10,12 +10,13 @@
 
 * **Code2College**
 
-  * Elite 101 (Current participant)
-    * Advanced coding and interview prep
-    * GitHub, Agile/Scrum, debugging & testing
-    * Workplace-ready software development skills
+  * **Elite 101 (Current participant)**
+
+    * Developing advanced coding and interview preparation skills
+    * Practicing GitHub, Agile/Scrum, debugging & testing
+    * Building workplace-ready software development skills
  
-  * Software Development Essentials (SDE)
+  * **Software Development Essentials (SDE)**
 
     * Completed a 6-week software development course focused on Python programming.
     * Built three Python projects:
@@ -37,17 +38,13 @@
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <a href="https://cs50.harvard.edu/python/">
-        <img src="https://certificates.cs50.io/f74234e4-1cf4-47d1-87d3-4af61de16341.png?size=letter" alt="Harvard CS50’s Introduction to Programming with Python" width="200"/>
-      </a>
+      <img src="https://certificates.cs50.io/f74234e4-1cf4-47d1-87d3-4af61de16341.png?size=letter" alt="Harvard CS50’s Introduction to Programming with Python" width="200"/>
       <br/><br/>
       <b>Harvard CS50’s Introduction to Programming with Python</b><br/>
       Awarded by Harvard University
     </td>
     <td align="center" width="50%">
-      <a href="https://www.hirewheel.ai/ai-literacy-day">
-        <img src="https://cdn.certifier.io/ff9d2787-f5ac-4457-9251-e32b869ec383/credentials/01kn68emqncmv23jmzbfk6ygq6/designs/01kmnhh02hkrh22hd0cavzfwg2/p9V3GnnqLL.png" alt="AI Chatbot and Agent Fundamentals Badge" width="200"/>
-      </a>
+      <img src="https://cdn.certifier.io/ff9d2787-f5ac-4457-9251-e32b869ec383/credentials/01kn68emqncmv23jmzbfk6ygq6/designs/01kmnhh02hkrh22hd0cavzfwg2/p9V3GnnqLL.png" alt="AI Chatbot and Agent Fundamentals Badge" width="200"/>
       <br/><br/>
       <b>AI Chatbot and Agent Fundamentals</b><br/>
       Issued by Code2College
