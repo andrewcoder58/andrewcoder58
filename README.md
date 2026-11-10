@@ -10,15 +10,15 @@
 
 * **Code2College**
 
-  * **Elite 101 (Current participant)**
+  * **Elite 101**
 
-    * Developing advanced coding and interview preparation skills
-    * Practicing GitHub, Agile/Scrum, debugging & testing
-    * Building workplace-ready software development skills
+    * Developed advanced coding and interview preparation skills (STAR & REACTO)
+    * Practiced Git, GitHub, Agile/Scrum, debugging & testing on a shared team repository
+    * Built [StudySprint](https://github.com/Code2College-Content/elite-101-mw-a), a Python-based app that turns any subject into flashcards and quizzes
  
   * **Software Development Essentials (SDE)**
 
-    * Completed a 6-week software development course focused on Python programming.
+    * Completed a 6-week software development course focused on Python programming
     * Built three Python projects:
       * [Escape Room](https://github.com/andrewcoder58/escape-room)
       * [Store Inventory](https://github.com/andrewcoder58/store-inventory)
